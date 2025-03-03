@@ -22,7 +22,7 @@ This is a Flutter-based e-commerce shopping app with a clean UI and smooth user 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/e_commerce_shopping_app.git
+   git clone https://github.com/Vishnu-Vishwas/e_commerce_shopping_app.git
    ```
 2. Navigate to the project directory:
    ```bash

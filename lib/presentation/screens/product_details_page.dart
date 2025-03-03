@@ -180,7 +180,7 @@ class ProductDetailsPage extends StatelessWidget {
 
                     // Handbag image
                     Positioned(
-                      top: -MediaQuery.of(context).size.height * 0.2,
+                      top: -MediaQuery.of(context).size.height * 0.17,
                       left: MediaQuery.of(context).size.width * 0.35,
                       child: Image.asset(
                         'assets/handbag_images/${index + 1}.png',
